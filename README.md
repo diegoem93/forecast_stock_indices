@@ -16,7 +16,7 @@ Seaborn
 Scikit-learn
 After installing the required packages, copy and paste the code into your Python environment and run it. The results will be displayed in tables and graphs.
 
-##Outputs
+## Outputs
 The code produces the following outputs:
 
 Table of results for the applied models
